@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antarabanerjee" alt="antarabanerjee" /></a> </p>
 <img align= "right" alt = "Coding" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-- 🌱 I’m currently learning:**Web Development, Data Structures.**
+  🌱 I’m currently learning:  Web Development, Data Structures.
 
 - 📫 How to reach me: **antarabanerjee6004@gmail.com**
 
