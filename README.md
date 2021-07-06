@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **antarabanerjee6004@gmail.com**
 
-- ⚡ Other Interests: **❤️I love to Food Blogging as a part of my hobby on Instagram. Yoga and singing is my favourite stress buster.**
+- ⚡ Other Interests: **I love to Food Blogging as a part of my hobby on Instagram. Yoga and singing is my favourite stress buster.❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
